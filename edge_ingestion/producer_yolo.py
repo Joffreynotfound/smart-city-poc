@@ -1,0 +1,1 @@
+# Pipeline de traitement de données pour l'ingestion de données à partir de YOLO
